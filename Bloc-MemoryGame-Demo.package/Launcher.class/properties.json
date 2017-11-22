@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "RomanLevinzon 11/22/2017 21:18",
+	"super" : "Object",
+	"category" : "Bloc-MemoryGame-Demo-Elements",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "Launcher",
+	"type" : "normal"
+}
