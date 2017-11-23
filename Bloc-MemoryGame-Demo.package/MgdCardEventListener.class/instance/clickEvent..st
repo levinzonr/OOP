@@ -1,3 +1,3 @@
 mouse handlers
 clickEvent: anEvent
-	self halt.
+	gameModel chooseCard: anEvent currentTarget card.
